@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/video_ad_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/video_ad_list_item.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/recycler_view_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/recycler_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/native_gallery_content.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/native_gallery_content.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/ad_config_dialog.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/ad_config_dialog.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/interstitial_detail_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/interstitial_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/banner_detail_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/banner_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/ad_config_dialog.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/ad_config_dialog.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/ad_unit_list_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/ad_unit_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/banner_detail_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/banner_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/ad_configuration_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/ad_configuration_list_item.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/native_list_view_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/native_list_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/native_gallery_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/native_gallery_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/native_ad_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/native_ad_list_item.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/recycler_view_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/recycler_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/interstitial_detail_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/interstitial_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/ad_unit_list_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/ad_unit_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/native_list_view_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/native_list_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/native_gallery_fragment.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/native_gallery_fragment.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/layout/video_ad_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/layout/video_ad_list_item.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/native_gallery_content.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/native_gallery_content.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/native_ad_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/native_ad_list_item.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/layout/ad_configuration_list_item.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/layout/ad_configuration_list_item.xml"
+    }
+]

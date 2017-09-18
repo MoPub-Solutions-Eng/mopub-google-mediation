@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-static/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-static/src/debug/shaders"/></dataSet></merger>

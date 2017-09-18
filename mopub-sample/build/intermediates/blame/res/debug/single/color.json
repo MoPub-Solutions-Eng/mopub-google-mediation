@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

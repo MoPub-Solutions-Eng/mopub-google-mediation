@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/xml/network_security_config.xml",
+        "source": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/xml/network_security_config.xml",
+        "source": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/res/xml/network_security_config.xml"
+    }
+]

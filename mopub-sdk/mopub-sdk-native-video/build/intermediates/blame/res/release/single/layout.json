@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-video/build/intermediates/res/merged/release/layout/exo_playback_control_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-video/build/intermediates/res/merged/release/layout/exo_simple_player_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sdk/mopub-sdk-native-video/build/intermediates/res/merged/release/layout/exo_playback_control_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sdk/mopub-sdk-native-video/build/intermediates/res/merged/release/layout/exo_simple_player_view.xml",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/layout/exo_simple_player_view.xml"
+    }
+]

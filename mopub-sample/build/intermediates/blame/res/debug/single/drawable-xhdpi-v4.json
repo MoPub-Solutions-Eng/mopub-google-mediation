@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_pause.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_next.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_pause.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_play.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_play.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/vchau/.android/build-cache/5658eb6ee6a4322f75fe45880be365a52ed5835f/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_next.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/vchau/Downloads/mopub-android-sdk-master/mopub-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    }
+]

@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:3:7-40
+	android:versionName
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:5:7-35
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:4:7-31
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:6:5-7:46
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/vchau/.android/build-cache/0f32448d50605c996776d1d048d903b6083de3af/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/vchau/.android/build-cache/f1a1fc41d6b9da9cb241568906a4f051d25e00a8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/vchau/.android/build-cache/bcbb1967fddeade563f6f0437d6d1518cfb74e41/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/vchau/.android/build-cache/caa56ae6480ce739d78c831c4a24c5d5f141d66e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/vchau/.android/build-cache/08be9341866975d817ad6b2c712d396944648826/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/vchau/.android/build-cache/aa52d911873ac021ab18e992fb14a7207f68385d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.mopub:mopub-sdk:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-banner:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-banner/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-rewardedvideo/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-interstitial/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-video/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-static/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-base/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vchau/.android/build-cache/6dc667a94a8e1f89cfdd6ce39d4432277a7eab06/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vchau/.android/build-cache/1c8909399e1120fa08433fbc6c6bf785c00f8ec6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.moat.analytics.mobile.mpub:moat-mobile-app-kit:2.1.0] /Users/vchau/.android/build-cache/20ffe3297cfd39bc941c6af8917bc7608518e9cb/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vchau/.android/build-cache/e9d93951e110a83109e54672fdbffe35034066f6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vchau/.android/build-cache/116a80a0cb3545060ab56cfc63a7752d199830ea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.4] /Users/vchau/.android/build-cache/547fb50900f2e09f567008cc24cdc10011e49051/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.4] /Users/vchau/.android/build-cache/ec679b98491a486522d3cc150a0c80fcf8076b7b/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vchau/.android/build-cache/54914f26a29fa3a3a479ddfcee1bb01b64546e48/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vchau/.android/build-cache/50ea6ad05b81599d0d6b050909903c5d30d62660/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.4] /Users/vchau/.android/build-cache/8f040f339704357e28158e731134f3451c2fa7fe/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.4] /Users/vchau/.android/build-cache/a27dbd96e09411c3c9d40751ca94ca29097cac56/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.4] /Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.4] /Users/vchau/.android/build-cache/c4d66ca640834f15ccf7d005256e749b042e1a43/output/AndroidManifest.xml:21:5-23:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:7:15-44
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:6:15-41
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+		INJECTED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:14:22-78
+application
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:16:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/vchau/.android/build-cache/f1a1fc41d6b9da9cb241568906a4f051d25e00a8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/vchau/.android/build-cache/bcbb1967fddeade563f6f0437d6d1518cfb74e41/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/vchau/.android/build-cache/caa56ae6480ce739d78c831c4a24c5d5f141d66e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/vchau/.android/build-cache/08be9341866975d817ad6b2c712d396944648826/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/vchau/.android/build-cache/aa52d911873ac021ab18e992fb14a7207f68385d/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.mopub:mopub-sdk:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-banner/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-rewardedvideo/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-interstitial/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-video/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-native-static/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.16.1] /Users/vchau/Downloads/mopub-google-mediation/mopub-sdk/mopub-sdk-base/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vchau/.android/build-cache/6dc667a94a8e1f89cfdd6ce39d4432277a7eab06/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vchau/.android/build-cache/1c8909399e1120fa08433fbc6c6bf785c00f8ec6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vchau/.android/build-cache/116a80a0cb3545060ab56cfc63a7752d199830ea/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vchau/.android/build-cache/54914f26a29fa3a3a479ddfcee1bb01b64546e48/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vchau/.android/build-cache/50ea6ad05b81599d0d6b050909903c5d30d62660/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:16:48-80
+	android:icon
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:16:18-47
+	android:networkSecurityConfig
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:17:18-78
+activity#com.mopub.simpleadsdemo.MoPubSampleActivity
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:18:6-25:17
+	android:label
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:19:14-46
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:20:17-63
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:18:16-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:21:10-24:26
+action#android.intent.action.MAIN
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:22:14-66
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:22:22-63
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:23:14-74
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:23:24-71
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:26:9-27:80
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:26:19-67
+activity#com.mopub.mobileads.MraidActivity
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:28:9-29:80
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:28:19-67
+activity#com.mopub.common.MoPubBrowser
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:30:9-31:80
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:30:19-63
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:32:9-33:80
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:32:19-78
+activity#com.mopub.mobileads.RewardedMraidActivity
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:34:9-35:82
+	android:configChanges
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:35:19-80
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:34:19-75
+meta-data#com.google.android.gms.version
+ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:37:9-38:76
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/vchau/.android/build-cache/aa52d911873ac021ab18e992fb14a7207f68385d/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:38:20-73
+	android:name
+		ADDED from /Users/vchau/Downloads/mopub-google-mediation/mopub-sample/AndroidManifest.xml:37:20-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/vchau/.android/build-cache/e6cef7f2fea911bc00cda24f2c441ff07f077647/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/vchau/.android/build-cache/283b8687773f83652704b468505e725af770f16c/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vchau/.android/build-cache/6dc667a94a8e1f89cfdd6ce39d4432277a7eab06/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vchau/.android/build-cache/1c8909399e1120fa08433fbc6c6bf785c00f8ec6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vchau/.android/build-cache/e9d93951e110a83109e54672fdbffe35034066f6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vchau/.android/build-cache/116a80a0cb3545060ab56cfc63a7752d199830ea/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vchau/.android/build-cache/54914f26a29fa3a3a479ddfcee1bb01b64546e48/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vchau/.android/build-cache/50ea6ad05b81599d0d6b050909903c5d30d62660/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/AndroidManifest.xml:26:9-47
+library
+ADDED from [com.moat.analytics.mobile.mpub:moat-mobile-app-kit:2.1.0] /Users/vchau/.android/build-cache/20ffe3297cfd39bc941c6af8917bc7608518e9cb/output/AndroidManifest.xml:11:5-51
+	android:name
+		ADDED from [com.moat.analytics.mobile.mpub:moat-mobile-app-kit:2.1.0] /Users/vchau/.android/build-cache/20ffe3297cfd39bc941c6af8917bc7608518e9cb/output/AndroidManifest.xml:11:14-48

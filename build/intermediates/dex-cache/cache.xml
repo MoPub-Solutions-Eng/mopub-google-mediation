@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c39b03892d1fa65a3b196d7e00eb01d3f87d99a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1729405996d90a3f733a639c6882786b9c3d73c">
+        <dex dex="/Users/vchau/Downloads/mopub-google-mediation/mopub-sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aaba862965b3e2913f2b671252e23d70ee5eb2eb/classes.dex" />
+    </item>
+
+</items>
